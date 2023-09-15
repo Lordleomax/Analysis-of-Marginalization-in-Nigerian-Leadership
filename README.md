@@ -1,5 +1,5 @@
 # Analysis-of-Marginalization-in-Nigerian-Leadership
-
+![Nigerian Leadership Since Independence](https://github.com/Lordleomax/Analysis-of-Marginalization-in-Nigerian-Leadership/assets/131598329/56bd9cf7-cd70-47d9-b300-611a3125a795)
 
 This analysis aims to investigate the claims of marginalization or domination of any region in Nigerian politics.
 
@@ -7,7 +7,7 @@ This analysis aims to investigate the claims of marginalization or domination of
 
 The analysis is descriptive and covers the period from 1960 to the present day, excluding the new administration that will take office on May 29, 2023. It covers both military and democratic regimes, as they collectively form the leadership history of Nigeria. The analysis covers only the regimes of indigenous leaders.
 
-![Nigerian Leadership Since Independence](https://github.com/Lordleomax/Analysis-of-Marginalization-in-Nigerian-Leadership/assets/131598329/56bd9cf7-cd70-47d9-b300-611a3125a795)
+
 
 
 ## Dataset
