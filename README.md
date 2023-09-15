@@ -10,6 +10,9 @@ The analysis is descriptive and covers the period from 1960 to the present day, 
 ![Nigerian Leadership Since Independence](https://github.com/Lordleomax/Analysis-of-Marginalization-in-Nigerian-Leadership/assets/131598329/56bd9cf7-cd70-47d9-b300-611a3125a795)
 
 
+## Dataset
+The data was sourced from [Wikipedia](https://en.wikipedia.org/wiki/List_of_heads_of_state_of_Nigeria)
+
 ## **Key Findings**
 
 The key findings of the analysis are as follows:
